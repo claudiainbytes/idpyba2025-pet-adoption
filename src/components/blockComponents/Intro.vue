@@ -3,14 +3,15 @@
 </script>
 
 <template>
-  <section class="py-5 text-center container">
+  <section class="py-5 text-center container-fluid" id="intro">
   <div class="row py-lg-5">
     <div class="col-lg-6 col-md-8 mx-auto">
-      <h1 class="fw-light">Album example</h1>
-      <p class="lead text-body-secondary">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
-      <p>
-        <a href="#" class="btn btn-primary my-2 me-1">Main call to action</a>
-        <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+      <h1 class="fw-light">¡Adoptar es amar en grande!</h1>
+      <p class="lead text-body-secondary">Dale una segunda oportunidad a los que están listos para ser parte de tu familia</p>
+      <p class="social-media">
+        <a href="#" class="btn btn-info btn-circle my-2 me-3"><i class="fa-brands fa-facebook-f"></i></a>
+        <a href="#" class="btn btn-dark btn-circle my-2 me-3"><i class="fa-brands fa-x-twitter"></i></a>
+        <a href="#" class="btn btn-danger btn-circle my-2"><i class="fa-brands fa-instagram"></i></a>
       </p>
     </div>
   </div>
